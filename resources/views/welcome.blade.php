@@ -100,7 +100,7 @@
         <div class="container mx-auto px-6 text-center">
             <h2 class="text-3xl font-bold text-gray-800 mb-6">Hubungi Kami</h2>
             <p class="text-gray-600 mb-8">Butuh solusi IT untuk bisnis Anda? Tim kami siap membantu.</p>
-            <a href="mailto:info@mda.co.id"
+            <a href="mailto:sasukeninjawarior0@gmail.com"
                 class="inline-block bg-gradient-to-r from-indigo-500 to-purple-500 px-8 py-3 rounded-xl text-white font-semibold shadow-lg hover:opacity-90 transition">
                 Kirim Email
             </a>
