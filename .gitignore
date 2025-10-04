@@ -1,8 +1,21 @@
+# Laravel & umum
+/vendor
+/node_modules
+npm-debug.log
+yarn-error.log
 *.log
 .DS_Store
+Thumbs.db
+
+# Environment & config
 .env
 .env.backup
 .env.production
+auth.json
+Homestead.json
+Homestead.yaml
+
+# Editor / tool files
 .phpactor.json
 .phpunit.result.cache
 /.fleet
@@ -11,14 +24,17 @@
 /.phpunit.cache
 /.vscode
 /.zed
-/auth.json
-/node_modules
+/.vagrant
+
+# Laravel storage & build
 /public/build
 /public/hot
 /public/storage
 /storage/*.key
 /storage/pail
-/vendor
-Homestead.json
-Homestead.yaml
-Thumbs.db
+
+# Laravel lama (jaga-jaga)
+bootstrap/compiled.php
+app/storage
+public_html/storage
+public_html/hot
