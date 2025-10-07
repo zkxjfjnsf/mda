@@ -18,9 +18,9 @@
                 <span class="text-xl font-bold text-white">PT MDA</span>
             </div>
             <nav class="hidden md:flex space-x-8 text-sm font-medium">
-                <a href="#tentang" class="text-white hover:text-yellow-200 transition">Tentang</a>
-                <a href="#layanan" class="text-white hover:text-yellow-200 transition">Layanan</a>
-                <a href="#kontak" class="text-white hover:text-yellow-200 transition">Kontak</a>
+                <a href="tentang" class="text-white hover:text-yellow-200 transition">Tentang</a>
+                <a href="layanan" class="text-white hover:text-yellow-200 transition">Layanan</a>
+                <a href="kontak" class="text-white hover:text-yellow-200 transition">Kontak</a>
             </nav>
         </div>
     </header>
