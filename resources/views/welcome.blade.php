@@ -86,6 +86,13 @@
                 </div>
                 <span class="text-lg font-bold text-white hidden sm:block">PT MDA</span>
             </div>
+            <nav class="hidden md:flex space-x-8 text-sm font-medium">
+                <a href="tentang" class="text-white hover:text-yellow-200 transition">Tentang</a>
+                <a href="layanan" class="text-white hover:text-yellow-200 transition">Layanan</a>
+                <a href="kontak" class="text-white hover:text-yellow-200 transition">Kontak</a>
+            </nav>
+        </div>
+    </header>
 
             <!-- Menu Navigasi -->
             <ul class="flex space-x-6 text-white font-medium">
